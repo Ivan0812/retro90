@@ -1,12 +1,60 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 Retro90
 
-Currently, two official plugins are available:
+**Retro90** ist eine Webanwendung, die Filme aus den 80er- und 90er-Jahren präsentiert. Die Daten stammen von der TMDB API. Das Projekt wurde mit React, Tailwind CSS und Framer Motion umgesetzt.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live-Demo
 
-## Expanding the ESLint configuration
+👉 [ivankovacevic.netlify.app](https://ivankovacevic.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Verwendete Technologien
+
+- React + Vite  
+- Tailwind CSS  
+- Framer Motion  
+- TMDB API
+
+## 📸 Screenshot
+
+*(Später hier einfügen)*  
+`![Screenshot](./screenshot.png)`
+
+## 🔧 Installation
+
+1. Repository klonen:
+   ```bash
+   git clone https://github.com/Ivan0812/retro90.git
+   ```
+
+2. Abhängigkeiten installieren:
+   ```bash
+   cd retro90
+   npm install
+   ```
+
+3. Lokalen Entwicklungsserver starten:
+   ```bash
+   npm run dev
+   ```
+
+> ⚠️ Empfohlene Node-Version: 18.x, 20.x oder 22.x (Version 21 kann Warnungen verursachen)
+
+## ✨ Funktionen
+
+- Suche und Filter für Filme
+- Anzeige von Filminformationen
+- Modal mit Filmdetails
+- Animierte Übergänge mit Framer Motion
+- Responsive Design für Mobilgeräte
+
+## 📌 Geplante Features
+
+- Paginierung hinzufügen  
+- Favoritenfunktion  
+- Benutzer-Authentifizierung  
+
+## 👨‍💻 Autor
+
+Ivan Kovačević  
+[Portfolio](https://ivankovacevic.netlify.app)  
+[GitHub-Profil](https://github.com/Ivan0812)
