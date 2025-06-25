@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section
       className="relative min-h-screen bg-cover bg-center text-white py-16 px-6"
-      style={{ backgroundImage: "url('/wp7301120-80s-movies-wallpapers.jpg')" }}
+      style={{ backgroundImage: "url('/wp7301120-80s-movies-wallpapers.webp')" }}
     >
       {/* Tamni overlay sloj za čitljivost */}
       <div className="absolute inset-0 bg-gray-900 bg-opacity-70"></div>
