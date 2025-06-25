@@ -5,7 +5,7 @@
 
 ## 🔗 Live-Demo
 
-👉 [ivankovacevic.netlify.app](https://ivankovacevic.netlify.app)
+[👉 [ivankovacevic.netlify.app](https://ivankovacevic.netlify.app)](https://retronineties.netlify.app/)
 
 ## 🚀 Verwendete Technologien
 
@@ -14,10 +14,6 @@
 - Framer Motion  
 - TMDB API
 
-## 📸 Screenshot
-
-*(Später hier einfügen)*  
-`![Screenshot](./screenshot.png)`
 
 ## 🔧 Installation
 
